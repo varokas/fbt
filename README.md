@@ -1,5 +1,7 @@
 # fbt
-Caches sbt and ivy for faster bootstrap
+Caches sbt and ivy for faster bootstrap. 
+
+Tested with https://github.com/varokas/play-scala-seed
 
 ## MacOS and Linux
 1. Install sbt: http://www.scala-sbt.org/0.13/docs/Setup.html
