@@ -3,7 +3,7 @@ Caches sbt and ivy for faster bootstrap
 
 ## MacOS and Linux
 1. Install sbt: http://www.scala-sbt.org/0.13/docs/Setup.html
-2. Execute the script (The content of the script can be found [here](https://github.com/varokas/fbt/blob/master/install.sh))
+2. Execute the script (The content can be found [here](https://github.com/varokas/fbt/blob/master/install.sh))
 
 Script:
 
